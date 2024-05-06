@@ -114,5 +114,10 @@ npm start
 <br>
 
 <h1>Resumo do Projeto</h1>
-<p>Em suma, o sistema de controle de despesas em React (Money) é uma ferramenta valiosa para qualquer pessoa que deseje manter suas finanças organizadas e sob controle. Com uma variedade de funcionalidades e uma abordagem centrada no usuário, ele oferece uma solução abrangente para o desafio contínuo de gerenciar despesas pessoais.</p>
+<p>Em suma, o sistema de controle de despesas em React (Money) é uma ferramenta valiosa para qualquer pessoa que deseja manter suas finanças organizadas e sob controle. Com uma variedade de funcionalidades e uma abordagem centrada no usuário, ele oferece uma solução abrangente para o desafio contínuo de gerenciar despesas pessoais.</p>
 <br>
+
+
+<p align="center">
+  Feito com ❤️ por Luis Eduardo
+</p>
